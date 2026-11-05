@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/gpu_test.dir/src/main.cu.o CMakeFiles/gpu_test.dir/cmake_device_link.o -o gpu_test  -lcudadevrt -lcudart_static -lrt -lpthread -ldl  -L"/usr/local/cuda/targets/x86_64-linux/lib/stubs" -L"/usr/local/cuda/targets/x86_64-linux/lib"
